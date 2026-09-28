@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/boostpath",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Boost encode/decode helpers for path payloads in pipelines.",
+  "bin": {
+    "boostpath": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/boostpath.git"
+  },
+  "homepage": "https://theworker02.github.io/boostpath/",
+  "keywords": [
+    "boost",
+    "path",
+    "encode",
+    "cli",
+    "toolkit"
+  ]
+}
